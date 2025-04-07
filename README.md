@@ -1,4 +1,4 @@
-# MLT Proyek Pertama | Medical Insurance Premium Prediction
+# MLT Proyek Pertama | Prediksi asuransi medis premium
 
 ###### Disusun oleh : Ervin Aditya
 
@@ -10,7 +10,7 @@ Proyek ini membangun model *machine learning* yang dapat memprediksi biaya perta
 
 ### Latar Belakang
 
-Domain proyek "Medical Insurance Premium Prediction" adalah industri asuransi kesehatan. Asuransi kesehatan adalah sektor yang penting dalam industri asuransi, yang melibatkan perlindungan finansial terhadap risiko kesehatan bagi individu dan keluarga mereka. 
+Domain proyek "Prediksi asuransi medis premium" adalah industri asuransi kesehatan. Asuransi kesehatan adalah sektor yang penting dalam industri asuransi, yang melibatkan perlindungan finansial terhadap risiko kesehatan bagi individu dan keluarga mereka. 
 
 Dalam domain ini, perusahaan asuransi menyediakan layanan perlindungan kesehatan dengan mengenakan premi kepada pemegang polis.
 
@@ -28,7 +28,7 @@ Manfaat bagi Calon Pemegang Polis:
 - Premi yang Adil: Dengan menggunakan model prediktif yang mempertimbangkan faktor-faktor risiko secara komprehensif, calon pemegang polis akan menerima perkiraan premi yang lebih adil, yang sejalan dengan risiko kesehatan yang mereka tanggung. Hal ini dapat membantu mereka memahami dan menerima besaran premi yang mereka bayar.
 - Perlindungan Finansial yang Optimal: Dengan premi yang didasarkan pada risiko individual, calon pemegang polis akan mendapatkan perlindungan finansial yang sesuai dengan kebutuhan dan risiko kesehatan mereka. Ini memberikan mereka kepastian dan keamanan dalam menghadapi risiko kesehatan yang mungkin mereka alami.
 
-Secara keseluruhan, model analisis prediktif dalam proyek "Medical Insurance Premium Prediction" dapat memberikan manfaat yang signifikan bagi perusahaan asuransi dan calon pemegang polis. 
+Secara keseluruhan, model analisis prediktif dalam proyek "Prediksi asuransi medis premium" dapat memberikan manfaat yang signifikan bagi perusahaan asuransi dan calon pemegang polis. 
 
 Dengan menggunakan model ini, perusahaan asuransi dapat mengoptimalkan penentuan premi dan mengelola risiko keuangan mereka, sementara calon pemegang polis akan mendapatkan perkiraan premi yang lebih adil dan akurat sesuai dengan risiko kesehatan mereka.
 
@@ -44,7 +44,7 @@ Proyek ini dibangun untuk perusahaan asuransi kesehatan dengan karakteristik bis
 
 Dengan memahami karakteristik bisnis perusahaan asuransi kesehatan ini, proyek ini dapat dirancang dan disesuaikan untuk memenuhi kebutuhan dan tujuan bisnis yang spesifik.
 
-Oleh sebab itu, proyek "Medical Insurance Premium Prediction" ini dapat membantu perusahaan asuransi kesehatan dengan karakteristik bisnis di atas dalam meningkatkan keputusan bisnis dan mencapai keunggulan kompetitif sebagai berikut:
+Oleh sebab itu, proyek "Prediksi asuransi medis premium" ini dapat membantu perusahaan asuransi kesehatan dengan karakteristik bisnis di atas dalam meningkatkan keputusan bisnis dan mencapai keunggulan kompetitif sebagai berikut:
 
 1. Penentuan Premi yang Lebih Akurat: Dengan menggunakan model analisis prediktif yang dikembangkan dalam proyek ini, perusahaan dapat menentukan premi asuransi kesehatan yang lebih akurat berdasarkan faktor-faktor risiko yang relevan. Dengan mempertimbangkan variabel seperti usia, riwayat medis, operasi sebelumnya, riwayat penyakit keluarga, dan data fisik lainnya, model ini dapat memberikan estimasi premi yang lebih tepat dan konsisten. Hal ini membantu perusahaan mengambil keputusan yang lebih informasional dan meminimalkan risiko keuangan yang tidak terduga.
 
@@ -90,7 +90,7 @@ Dalam konteks penentuan premi asuransi kesehatan, berikut adalah contoh konkret 
    - Masalah: Penentuan premi yang tidak akurat dapat menyebabkan ketidakseimbangan antara risiko yang ditanggung oleh perusahaan dan premi yang diterima.
    - Contoh: Jika perusahaan asuransi menetapkan premi yang terlalu rendah untuk kelompok tertentu yang memiliki risiko tinggi, mereka dapat menghadapi klaim yang melebihi pendapatan premi, mengakibatkan kerugian finansial.
 
-Dalam proyek "Medical Insurance Premium Prediction", faktor-faktor ini akan dianalisis secara komprehensif dan dimasukkan ke dalam model analisis prediktif. 
+Dalam proyek "Prediksi asuransi medis premium", faktor-faktor ini akan dianalisis secara komprehensif dan dimasukkan ke dalam model analisis prediktif. 
 
 Dengan memanfaatkan teknik *machine learning*, model ini akan menghasilkan perkiraan premi yang lebih akurat, mempertimbangkan faktor-faktor risiko yang relevan dengan tingkat keakuratan yang lebih tinggi.
 
@@ -150,7 +150,7 @@ Melalui pendekatan ini, diharapkan solusi yang diberikan dapat memenuhi tujuan p
 
 Dataset yang digunakan dalam proyek ini merupakan data parameter terkait kesehatan yang diberikan hampir oleh 1000 konsumen secara sukarela.
 
-Dataset dapat diunduh di: [Medical Insurance Premium Prediction](https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction).
+Dataset dapat diunduh di: [Prediksi asuransi medis premium](https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction).
 
 ### Sample data
 | Age | Diabetes | BloodPressureProblems | AnyTransplants | AnyChronicDiseases | Height | Weight | KnownAllergies | HistoryOfCancerInFamily | NumberOfMajorSurgeries | PremiumPrice |
@@ -171,7 +171,7 @@ Berikut informasi pada dataset :
 - Dataset memiliki 11 fitur bertipe int64.
 - Tidak ada missing value dalam dataset.
 
-### Variabel-variabel pada Medical Insurance Premium Prediction dataset adalah sebagai berikut:
+### Variabel-variabel pada Prediksi asuransi medis premium dataset adalah sebagai berikut:
 - Age : merupakan rentang umur dari pasien tersebut
 - Diabetes : apakah pasien tersebut memiliki kadar gula darah abnormal atau tidak
 - BloodPressureProblems: apakah pasien tersebut memiliki tingkat tekanan darah abnormal
